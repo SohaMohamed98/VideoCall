@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">videoCall</string>
+    <string name="videoView">Call</string>
+    <string name="Go">Go</string>
+    <string name="ImageView">Image</string>
+    <string name="btnTwo">Images</string>
+    <string name="btnThree">IMG</string>
+</resources>
